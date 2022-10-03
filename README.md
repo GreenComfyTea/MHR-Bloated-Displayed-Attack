@@ -1,18 +1,18 @@
-# "Better Matchmaking" Mod for Monster Hunter: Rise
+# "Bloated Displayed Attack" Mod for Monster Hunter: Rise
 
-Mod for Monster Hunter Rise that fixed Region Lock and improves matchmaking experience. 
+Mod for Monster Hunter Rise that shows bloated attack value instead of raw value when inspecting a weapon like in older monster hunter games.
 
 ![](https://user-images.githubusercontent.com/30152047/183247427-c71bf991-6910-4801-97c0-5e7a537305e7.png)
 
 # Links
-* **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1044)**  
+* **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1755)**  
 
 # Requirements
-1. [LATEST REFRAMEWORK NIGHTLY BUILD](https://github.com/praydog/REFramework-nightly/releases) (v1.3.5? or above);
+1. [REFramework](https://nexusmods.com/monsterhunterrise/mods/26) (v1.3.5 or above);
 2. [Optional] [Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292) (v1.7 or above).
 
 # How to install:
-1. Install [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26);
+1. Install [REFramework](https://nexusmods.com/monsterhunterrise/mods/26);
 1. [Optional] Install [[Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292);
 3. Download the mod:
     * Official release can be downloaded from [Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1044);
