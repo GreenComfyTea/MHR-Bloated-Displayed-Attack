@@ -2,7 +2,7 @@
 
 Mod for Monster Hunter Rise that shows bloated attack value instead of raw value when inspecting a weapon like in older monster hunter games.
 
-![](https://user-images.githubusercontent.com/30152047/183247427-c71bf991-6910-4801-97c0-5e7a537305e7.png)
+![bloated_displayed_attack_2](https://user-images.githubusercontent.com/30152047/193549302-874af1a7-0532-4907-944d-5d1f3bf95ef3.png)
 
 # Links
 * **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1755)**  
