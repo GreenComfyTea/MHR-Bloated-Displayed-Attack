@@ -8,7 +8,7 @@ Mod for Monster Hunter Rise that shows bloated attack value instead of raw value
 * **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1755)**  
 
 # Requirements
-1. [REFramework](https://nexusmods.com/monsterhunterrise/mods/26) (v1.3.5 or above);
+1. [REFramework](https://nexusmods.com/monsterhunterrise/mods/26) (v1.3.7 or above);
 2. [Optional] [Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292) (v1.7 or above).
 
 # How to install:
