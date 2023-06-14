@@ -45,13 +45,13 @@
 	<br>
 	<br>
 	<a href="https://github.com/greencomfytea/mhr-bloated-displayed-attack/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/mhr-bloated-displayed-attack?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/mhr-bloated-displayed-attack/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/mhr-bloated-displayed-attack?logo=git-commit" />
 	</a>
 	<a href="https://github.com/greencomfytea/mhr-bloated-displayed-attack/commits/main">
 		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/mhr-bloated-displayed-attack/latest?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-bloated-displayed-attack/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/mhr-bloated-displayed-attack?logo=git-commit" />
 	</a>
 	<br>
 	<a href="https://github.com/greencomfytea/mhr-bloated-displayed-attack/graphs/commit-activity">
