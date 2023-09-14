@@ -1,6 +1,6 @@
 <p align="center">
 	<h2 align="center"><b>"Bloated Displayed Attack" Mod for Monster Hunter: Rise</b></h2>
-	<p align="center">Mod that shows bloated attack value instead of raw value when inspecting a weapon like in older monster hunter games.</p>
+	<p align="center">Mod that shows bloated attack value instead of raw value when inspecting a weapon like in older Monster Hunter games.</p>
 </p>
 
 <p align="center">
